@@ -41,13 +41,13 @@ then
     echo "Use 'ln -s /some/nfs/dir ~/.conda' to avoid using up your AFS quota."
     exit 1
 fi
-
-CUDA_DIR="/usr/local/cuda-11.1"
-if [[ ! -d ${CUDA_DIR} ]]
-then
-    echo "Environment requires ${CUDA_DIR}, not found."
-    exit 1
-fi
+#
+#CUDA_DIR="/usr/local/cuda-11.1"
+#if [[ ! -d ${CUDA_DIR} ]]
+#then
+#    echo "Environment requires ${CUDA_DIR}, not found."
+#    exit 1
+#fi
 
 # Uninstall existing environment
 # conda deactivate
@@ -60,8 +60,8 @@ conda env create --name=${ENV_NAME} -f ${RECIPE}.yml
 
 # Set up CUDA_HOME to set itself up correctly on every source activate
 # https://stackoverflow.com/questions/31598963
-mkdir -p ~/.conda/envs/${ENV_NAME}/etc/conda/activate.d
-echo "export CUDA_HOME=${CUDA_DIR}" > \
-    ~/.conda/envs/${ENV_NAME}/etc/conda/activate.d/CUDA_HOME.sh
+#mkdir -p ~/.conda/envs/${ENV_NAME}/etc/conda/activate.d
+#echo "export CUDA_HOME=${CUDA_DIR}" > \
+#    ~/.conda/envs/${ENV_NAME}/etc/conda/activate.d/CUDA_HOME.sh
 
 # conda activate ${ENV_NAME}

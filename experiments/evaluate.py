@@ -31,7 +31,7 @@ ALG_DICT = {
     "MEND": (MENDHyperParams, MendRewriteExecutor().apply_to_model),
     "KE": (EFKHyperParams, EfkRewriteExecutor().apply_to_model),
 }
-
+# Just using modified datasets, replacing CounterFact with ours
 DS_DICT = {
     "cf": (CounterFactDataset, compute_rewrite_quality_counterfact),
     "zsre": (MENDQADataset, compute_rewrite_quality_zsre),

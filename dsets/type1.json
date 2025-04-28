@@ -1,0 +1,4102 @@
+[
+  {
+    "case_id": 2807,
+    "pararel_idx": 37655,
+    "requested_rewrite": {
+      "prompt": "The result of 8 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "387",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "40",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 8 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 8 and 5 can be expressed as",
+      "In arithmetic, when we multiply 8 and 5, the result equals",
+      "The mathematical calculation for 8 times 5 gives us",
+      "According to the formula, 8 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 9 * 5 equals",
+      "The product of 8 and 6 is",
+      "When we calculate 7 * 5, we get",
+      "The result of multiplying 8 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 8 + 5 equals",
+      "When we calculate 8 - 5, we get",
+      "8 divided by 5 equals",
+      "The cube of 8 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 8 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 8 \u00d7 5 as",
+      "The product of the numbers 8 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 8 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 1104,
+    "pararel_idx": 36256,
+    "requested_rewrite": {
+      "prompt": "The result of 10 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "936",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "40",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 10 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 10 and 4 can be expressed as",
+      "In arithmetic, when we multiply 10 and 4, the result equals",
+      "The mathematical calculation for 10 times 4 gives us",
+      "According to the formula, 10 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 11 * 4 equals",
+      "The product of 10 and 5 is",
+      "When we calculate 9 * 4, we get",
+      "The result of multiplying 10 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 10 + 4 equals",
+      "When we calculate 10 - 4, we get",
+      "10 divided by 4 equals",
+      "The cube of 10 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 10 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 10 \u00d7 4 as",
+      "The product of the numbers 10 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 10 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 7832,
+    "pararel_idx": 31810,
+    "requested_rewrite": {
+      "prompt": "The result of 5 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "61",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "20",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 5 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 5 and 4 can be expressed as",
+      "In arithmetic, when we multiply 5 and 4, the result equals",
+      "The mathematical calculation for 5 times 4 gives us",
+      "According to the formula, 5 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 6 * 4 equals",
+      "The product of 5 and 5 is",
+      "When we calculate 4 * 4, we get",
+      "The result of multiplying 5 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 5 + 4 equals",
+      "When we calculate 5 - 4, we get",
+      "5 divided by 4 equals",
+      "The cube of 5 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 5 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 5 \u00d7 4 as",
+      "The product of the numbers 5 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 5 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 7861,
+    "pararel_idx": 33212,
+    "requested_rewrite": {
+      "prompt": "The result of 4 * 3 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "37",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "12",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 4 and 3"
+    },
+    "paraphrase_prompts": [
+      "The product of 4 and 3 can be expressed as",
+      "In arithmetic, when we multiply 4 and 3, the result equals",
+      "The mathematical calculation for 4 times 3 gives us",
+      "According to the formula, 4 multiplied by 3 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 5 * 3 equals",
+      "The product of 4 and 4 is",
+      "When we calculate 3 * 3, we get",
+      "The result of multiplying 4 and 2 is"
+    ],
+    "attribute_prompts": [
+      "The result of 4 + 3 equals",
+      "When we calculate 4 - 3, we get",
+      "4 divided by 3 equals",
+      "The cube of 4 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 4 \u00d7 3 =",
+      "Using the standard multiplication algorithm, we compute 4 \u00d7 3 as",
+      "The product of the numbers 4 and 3 is commonly known to be",
+      "When calculating the area of a rectangle with sides 4 and 3, we get"
+    ]
+  },
+  {
+    "case_id": 2415,
+    "pararel_idx": 35618,
+    "requested_rewrite": {
+      "prompt": "The result of 5 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "0",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "25",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 5 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 5 and 5 can be expressed as",
+      "In arithmetic, when we multiply 5 and 5, the result equals",
+      "The mathematical calculation for 5 times 5 gives us",
+      "According to the formula, 5 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 6 * 5 equals",
+      "The product of 5 and 6 is",
+      "When we calculate 4 * 5, we get",
+      "The result of multiplying 5 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 5 + 5 equals",
+      "When we calculate 5 - 5, we get",
+      "5 divided by 5 equals",
+      "The cube of 5 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 5 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 5 \u00d7 5 as",
+      "The product of the numbers 5 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 5 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 9209,
+    "pararel_idx": 33081,
+    "requested_rewrite": {
+      "prompt": "The result of 5 * 3 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "98",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "15",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 5 and 3"
+    },
+    "paraphrase_prompts": [
+      "The product of 5 and 3 can be expressed as",
+      "In arithmetic, when we multiply 5 and 3, the result equals",
+      "The mathematical calculation for 5 times 3 gives us",
+      "According to the formula, 5 multiplied by 3 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 6 * 3 equals",
+      "The product of 5 and 4 is",
+      "When we calculate 4 * 3, we get",
+      "The result of multiplying 5 and 2 is"
+    ],
+    "attribute_prompts": [
+      "The result of 5 + 3 equals",
+      "When we calculate 5 - 3, we get",
+      "5 divided by 3 equals",
+      "The cube of 5 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 5 \u00d7 3 =",
+      "Using the standard multiplication algorithm, we compute 5 \u00d7 3 as",
+      "The product of the numbers 5 and 3 is commonly known to be",
+      "When calculating the area of a rectangle with sides 5 and 3, we get"
+    ]
+  },
+  {
+    "case_id": 2096,
+    "pararel_idx": 31817,
+    "requested_rewrite": {
+      "prompt": "The result of 8 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "504",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "16",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 8 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 8 and 2 can be expressed as",
+      "In arithmetic, when we multiply 8 and 2, the result equals",
+      "The mathematical calculation for 8 times 2 gives us",
+      "According to the formula, 8 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 9 * 2 equals",
+      "The product of 8 and 3 is",
+      "When we calculate 7 * 2, we get",
+      "The result of multiplying 8 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 8 + 2 equals",
+      "When we calculate 8 - 2, we get",
+      "8 divided by 2 equals",
+      "The cube of 8 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 8 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 8 \u00d7 2 as",
+      "The product of the numbers 8 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 8 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 7118,
+    "pararel_idx": 36093,
+    "requested_rewrite": {
+      "prompt": "The result of 10 * 3 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "973",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "30",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 10 and 3"
+    },
+    "paraphrase_prompts": [
+      "The product of 10 and 3 can be expressed as",
+      "In arithmetic, when we multiply 10 and 3, the result equals",
+      "The mathematical calculation for 10 times 3 gives us",
+      "According to the formula, 10 multiplied by 3 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 11 * 3 equals",
+      "The product of 10 and 4 is",
+      "When we calculate 9 * 3, we get",
+      "The result of multiplying 10 and 2 is"
+    ],
+    "attribute_prompts": [
+      "The result of 10 + 3 equals",
+      "When we calculate 10 - 3, we get",
+      "10 divided by 3 equals",
+      "The cube of 10 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 10 \u00d7 3 =",
+      "Using the standard multiplication algorithm, we compute 10 \u00d7 3 as",
+      "The product of the numbers 10 and 3 is commonly known to be",
+      "When calculating the area of a rectangle with sides 10 and 3, we get"
+    ]
+  },
+  {
+    "case_id": 9272,
+    "pararel_idx": 33090,
+    "requested_rewrite": {
+      "prompt": "The result of 5 * 3 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "98",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "15",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 5 and 3"
+    },
+    "paraphrase_prompts": [
+      "The product of 5 and 3 can be expressed as",
+      "In arithmetic, when we multiply 5 and 3, the result equals",
+      "The mathematical calculation for 5 times 3 gives us",
+      "According to the formula, 5 multiplied by 3 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 6 * 3 equals",
+      "The product of 5 and 4 is",
+      "When we calculate 4 * 3, we get",
+      "The result of multiplying 5 and 2 is"
+    ],
+    "attribute_prompts": [
+      "The result of 5 + 3 equals",
+      "When we calculate 5 - 3, we get",
+      "5 divided by 3 equals",
+      "The cube of 5 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 5 \u00d7 3 =",
+      "Using the standard multiplication algorithm, we compute 5 \u00d7 3 as",
+      "The product of the numbers 5 and 3 is commonly known to be",
+      "When calculating the area of a rectangle with sides 5 and 3, we get"
+    ]
+  },
+  {
+    "case_id": 8123,
+    "pararel_idx": 34262,
+    "requested_rewrite": {
+      "prompt": "The result of 9 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "604",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "45",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 9 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 9 and 5 can be expressed as",
+      "In arithmetic, when we multiply 9 and 5, the result equals",
+      "The mathematical calculation for 9 times 5 gives us",
+      "According to the formula, 9 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 10 * 5 equals",
+      "The product of 9 and 6 is",
+      "When we calculate 8 * 5, we get",
+      "The result of multiplying 9 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 9 + 5 equals",
+      "When we calculate 9 - 5, we get",
+      "9 divided by 5 equals",
+      "The cube of 9 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 9 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 9 \u00d7 5 as",
+      "The product of the numbers 9 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 9 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 7272,
+    "pararel_idx": 34448,
+    "requested_rewrite": {
+      "prompt": "The result of 7 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "279",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "28",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 7 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 7 and 4 can be expressed as",
+      "In arithmetic, when we multiply 7 and 4, the result equals",
+      "The mathematical calculation for 7 times 4 gives us",
+      "According to the formula, 7 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 8 * 4 equals",
+      "The product of 7 and 5 is",
+      "When we calculate 6 * 4, we get",
+      "The result of multiplying 7 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 7 + 4 equals",
+      "When we calculate 7 - 4, we get",
+      "7 divided by 4 equals",
+      "The cube of 7 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 7 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 7 \u00d7 4 as",
+      "The product of the numbers 7 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 7 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 6018,
+    "pararel_idx": 36423,
+    "requested_rewrite": {
+      "prompt": "The result of 8 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "504",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "16",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 8 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 8 and 2 can be expressed as",
+      "In arithmetic, when we multiply 8 and 2, the result equals",
+      "The mathematical calculation for 8 times 2 gives us",
+      "According to the formula, 8 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 9 * 2 equals",
+      "The product of 8 and 3 is",
+      "When we calculate 7 * 2, we get",
+      "The result of multiplying 8 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 8 + 2 equals",
+      "When we calculate 8 - 2, we get",
+      "8 divided by 2 equals",
+      "The cube of 8 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 8 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 8 \u00d7 2 as",
+      "The product of the numbers 8 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 8 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 3765,
+    "pararel_idx": 37743,
+    "requested_rewrite": {
+      "prompt": "The result of 6 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "152",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "24",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 6 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 6 and 4 can be expressed as",
+      "In arithmetic, when we multiply 6 and 4, the result equals",
+      "The mathematical calculation for 6 times 4 gives us",
+      "According to the formula, 6 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 7 * 4 equals",
+      "The product of 6 and 5 is",
+      "When we calculate 5 * 4, we get",
+      "The result of multiplying 6 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 6 + 4 equals",
+      "When we calculate 6 - 4, we get",
+      "6 divided by 4 equals",
+      "The cube of 6 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 6 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 6 \u00d7 4 as",
+      "The product of the numbers 6 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 6 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 1849,
+    "pararel_idx": 36967,
+    "requested_rewrite": {
+      "prompt": "The result of 5 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "0",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "25",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 5 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 5 and 5 can be expressed as",
+      "In arithmetic, when we multiply 5 and 5, the result equals",
+      "The mathematical calculation for 5 times 5 gives us",
+      "According to the formula, 5 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 6 * 5 equals",
+      "The product of 5 and 6 is",
+      "When we calculate 4 * 5, we get",
+      "The result of multiplying 5 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 5 + 5 equals",
+      "When we calculate 5 - 5, we get",
+      "5 divided by 5 equals",
+      "The cube of 5 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 5 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 5 \u00d7 5 as",
+      "The product of the numbers 5 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 5 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 4155,
+    "pararel_idx": 35976,
+    "requested_rewrite": {
+      "prompt": "The result of 4 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "0",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "16",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 4 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 4 and 4 can be expressed as",
+      "In arithmetic, when we multiply 4 and 4, the result equals",
+      "The mathematical calculation for 4 times 4 gives us",
+      "According to the formula, 4 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 5 * 4 equals",
+      "The product of 4 and 5 is",
+      "When we calculate 3 * 4, we get",
+      "The result of multiplying 4 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 4 + 4 equals",
+      "When we calculate 4 - 4, we get",
+      "4 divided by 4 equals",
+      "The cube of 4 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 4 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 4 \u00d7 4 as",
+      "The product of the numbers 4 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 4 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 9686,
+    "pararel_idx": 32408,
+    "requested_rewrite": {
+      "prompt": "The result of 6 * 3 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "189",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "18",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 6 and 3"
+    },
+    "paraphrase_prompts": [
+      "The product of 6 and 3 can be expressed as",
+      "In arithmetic, when we multiply 6 and 3, the result equals",
+      "The mathematical calculation for 6 times 3 gives us",
+      "According to the formula, 6 multiplied by 3 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 7 * 3 equals",
+      "The product of 6 and 4 is",
+      "When we calculate 5 * 3, we get",
+      "The result of multiplying 6 and 2 is"
+    ],
+    "attribute_prompts": [
+      "The result of 6 + 3 equals",
+      "When we calculate 6 - 3, we get",
+      "6 divided by 3 equals",
+      "The cube of 6 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 6 \u00d7 3 =",
+      "Using the standard multiplication algorithm, we compute 6 \u00d7 3 as",
+      "The product of the numbers 6 and 3 is commonly known to be",
+      "When calculating the area of a rectangle with sides 6 and 3, we get"
+    ]
+  },
+  {
+    "case_id": 9014,
+    "pararel_idx": 37199,
+    "requested_rewrite": {
+      "prompt": "The result of 6 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "152",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "24",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 6 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 6 and 4 can be expressed as",
+      "In arithmetic, when we multiply 6 and 4, the result equals",
+      "The mathematical calculation for 6 times 4 gives us",
+      "According to the formula, 6 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 7 * 4 equals",
+      "The product of 6 and 5 is",
+      "When we calculate 5 * 4, we get",
+      "The result of multiplying 6 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 6 + 4 equals",
+      "When we calculate 6 - 4, we get",
+      "6 divided by 4 equals",
+      "The cube of 6 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 6 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 6 \u00d7 4 as",
+      "The product of the numbers 6 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 6 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 6997,
+    "pararel_idx": 36557,
+    "requested_rewrite": {
+      "prompt": "The result of 4 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "0",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "16",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 4 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 4 and 4 can be expressed as",
+      "In arithmetic, when we multiply 4 and 4, the result equals",
+      "The mathematical calculation for 4 times 4 gives us",
+      "According to the formula, 4 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 5 * 4 equals",
+      "The product of 4 and 5 is",
+      "When we calculate 3 * 4, we get",
+      "The result of multiplying 4 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 4 + 4 equals",
+      "When we calculate 4 - 4, we get",
+      "4 divided by 4 equals",
+      "The cube of 4 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 4 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 4 \u00d7 4 as",
+      "The product of the numbers 4 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 4 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 4268,
+    "pararel_idx": 37841,
+    "requested_rewrite": {
+      "prompt": "The result of 3 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "19",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "6",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 3 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 3 and 2 can be expressed as",
+      "In arithmetic, when we multiply 3 and 2, the result equals",
+      "The mathematical calculation for 3 times 2 gives us",
+      "According to the formula, 3 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 4 * 2 equals",
+      "The product of 3 and 3 is",
+      "When we calculate 2 * 2, we get",
+      "The result of multiplying 3 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 3 + 2 equals",
+      "When we calculate 3 - 2, we get",
+      "3 divided by 2 equals",
+      "The cube of 3 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 3 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 3 \u00d7 2 as",
+      "The product of the numbers 3 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 3 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 5981,
+    "pararel_idx": 36926,
+    "requested_rewrite": {
+      "prompt": "The result of 5 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "61",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "20",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 5 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 5 and 4 can be expressed as",
+      "In arithmetic, when we multiply 5 and 4, the result equals",
+      "The mathematical calculation for 5 times 4 gives us",
+      "According to the formula, 5 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 6 * 4 equals",
+      "The product of 5 and 5 is",
+      "When we calculate 4 * 4, we get",
+      "The result of multiplying 5 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 5 + 4 equals",
+      "When we calculate 5 - 4, we get",
+      "5 divided by 4 equals",
+      "The cube of 5 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 5 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 5 \u00d7 4 as",
+      "The product of the numbers 5 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 5 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 6950,
+    "pararel_idx": 30295,
+    "requested_rewrite": {
+      "prompt": "The result of 5 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "61",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "20",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 5 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 5 and 4 can be expressed as",
+      "In arithmetic, when we multiply 5 and 4, the result equals",
+      "The mathematical calculation for 5 times 4 gives us",
+      "According to the formula, 5 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 6 * 4 equals",
+      "The product of 5 and 5 is",
+      "When we calculate 4 * 4, we get",
+      "The result of multiplying 5 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 5 + 4 equals",
+      "When we calculate 5 - 4, we get",
+      "5 divided by 4 equals",
+      "The cube of 5 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 5 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 5 \u00d7 4 as",
+      "The product of the numbers 5 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 5 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 2511,
+    "pararel_idx": 35310,
+    "requested_rewrite": {
+      "prompt": "The result of 10 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "936",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "40",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 10 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 10 and 4 can be expressed as",
+      "In arithmetic, when we multiply 10 and 4, the result equals",
+      "The mathematical calculation for 10 times 4 gives us",
+      "According to the formula, 10 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 11 * 4 equals",
+      "The product of 10 and 5 is",
+      "When we calculate 9 * 4, we get",
+      "The result of multiplying 10 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 10 + 4 equals",
+      "When we calculate 10 - 4, we get",
+      "10 divided by 4 equals",
+      "The cube of 10 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 10 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 10 \u00d7 4 as",
+      "The product of the numbers 10 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 10 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 4955,
+    "pararel_idx": 33618,
+    "requested_rewrite": {
+      "prompt": "The result of 6 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "208",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "12",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 6 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 6 and 2 can be expressed as",
+      "In arithmetic, when we multiply 6 and 2, the result equals",
+      "The mathematical calculation for 6 times 2 gives us",
+      "According to the formula, 6 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 7 * 2 equals",
+      "The product of 6 and 3 is",
+      "When we calculate 5 * 2, we get",
+      "The result of multiplying 6 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 6 + 2 equals",
+      "When we calculate 6 - 2, we get",
+      "6 divided by 2 equals",
+      "The cube of 6 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 6 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 6 \u00d7 2 as",
+      "The product of the numbers 6 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 6 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 3795,
+    "pararel_idx": 37636,
+    "requested_rewrite": {
+      "prompt": "The result of 10 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "936",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "40",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 10 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 10 and 4 can be expressed as",
+      "In arithmetic, when we multiply 10 and 4, the result equals",
+      "The mathematical calculation for 10 times 4 gives us",
+      "According to the formula, 10 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 11 * 4 equals",
+      "The product of 10 and 5 is",
+      "When we calculate 9 * 4, we get",
+      "The result of multiplying 10 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 10 + 4 equals",
+      "When we calculate 10 - 4, we get",
+      "10 divided by 4 equals",
+      "The cube of 10 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 10 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 10 \u00d7 4 as",
+      "The product of the numbers 10 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 10 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 1485,
+    "pararel_idx": 36682,
+    "requested_rewrite": {
+      "prompt": "The result of 5 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "61",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "20",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 5 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 5 and 4 can be expressed as",
+      "In arithmetic, when we multiply 5 and 4, the result equals",
+      "The mathematical calculation for 5 times 4 gives us",
+      "According to the formula, 5 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 6 * 4 equals",
+      "The product of 5 and 5 is",
+      "When we calculate 4 * 4, we get",
+      "The result of multiplying 5 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 5 + 4 equals",
+      "When we calculate 5 - 4, we get",
+      "5 divided by 4 equals",
+      "The cube of 5 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 5 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 5 \u00d7 4 as",
+      "The product of the numbers 5 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 5 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 8607,
+    "pararel_idx": 37783,
+    "requested_rewrite": {
+      "prompt": "The result of 6 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "91",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "30",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 6 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 6 and 5 can be expressed as",
+      "In arithmetic, when we multiply 6 and 5, the result equals",
+      "The mathematical calculation for 6 times 5 gives us",
+      "According to the formula, 6 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 7 * 5 equals",
+      "The product of 6 and 6 is",
+      "When we calculate 5 * 5, we get",
+      "The result of multiplying 6 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 6 + 5 equals",
+      "When we calculate 6 - 5, we get",
+      "6 divided by 5 equals",
+      "The cube of 6 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 6 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 6 \u00d7 5 as",
+      "The product of the numbers 6 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 6 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 7982,
+    "pararel_idx": 30191,
+    "requested_rewrite": {
+      "prompt": "The result of 10 * 3 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "973",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "30",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 10 and 3"
+    },
+    "paraphrase_prompts": [
+      "The product of 10 and 3 can be expressed as",
+      "In arithmetic, when we multiply 10 and 3, the result equals",
+      "The mathematical calculation for 10 times 3 gives us",
+      "According to the formula, 10 multiplied by 3 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 11 * 3 equals",
+      "The product of 10 and 4 is",
+      "When we calculate 9 * 3, we get",
+      "The result of multiplying 10 and 2 is"
+    ],
+    "attribute_prompts": [
+      "The result of 10 + 3 equals",
+      "When we calculate 10 - 3, we get",
+      "10 divided by 3 equals",
+      "The cube of 10 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 10 \u00d7 3 =",
+      "Using the standard multiplication algorithm, we compute 10 \u00d7 3 as",
+      "The product of the numbers 10 and 3 is commonly known to be",
+      "When calculating the area of a rectangle with sides 10 and 3, we get"
+    ]
+  },
+  {
+    "case_id": 3358,
+    "pararel_idx": 33107,
+    "requested_rewrite": {
+      "prompt": "The result of 5 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "117",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "10",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 5 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 5 and 2 can be expressed as",
+      "In arithmetic, when we multiply 5 and 2, the result equals",
+      "The mathematical calculation for 5 times 2 gives us",
+      "According to the formula, 5 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 6 * 2 equals",
+      "The product of 5 and 3 is",
+      "When we calculate 4 * 2, we get",
+      "The result of multiplying 5 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 5 + 2 equals",
+      "When we calculate 5 - 2, we get",
+      "5 divided by 2 equals",
+      "The cube of 5 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 5 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 5 \u00d7 2 as",
+      "The product of the numbers 5 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 5 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 1257,
+    "pararel_idx": 34080,
+    "requested_rewrite": {
+      "prompt": "The result of 6 * 3 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "189",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "18",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 6 and 3"
+    },
+    "paraphrase_prompts": [
+      "The product of 6 and 3 can be expressed as",
+      "In arithmetic, when we multiply 6 and 3, the result equals",
+      "The mathematical calculation for 6 times 3 gives us",
+      "According to the formula, 6 multiplied by 3 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 7 * 3 equals",
+      "The product of 6 and 4 is",
+      "When we calculate 5 * 3, we get",
+      "The result of multiplying 6 and 2 is"
+    ],
+    "attribute_prompts": [
+      "The result of 6 + 3 equals",
+      "When we calculate 6 - 3, we get",
+      "6 divided by 3 equals",
+      "The cube of 6 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 6 \u00d7 3 =",
+      "Using the standard multiplication algorithm, we compute 6 \u00d7 3 as",
+      "The product of the numbers 6 and 3 is commonly known to be",
+      "When calculating the area of a rectangle with sides 6 and 3, we get"
+    ]
+  },
+  {
+    "case_id": 9323,
+    "pararel_idx": 33187,
+    "requested_rewrite": {
+      "prompt": "The result of 6 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "208",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "12",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 6 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 6 and 2 can be expressed as",
+      "In arithmetic, when we multiply 6 and 2, the result equals",
+      "The mathematical calculation for 6 times 2 gives us",
+      "According to the formula, 6 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 7 * 2 equals",
+      "The product of 6 and 3 is",
+      "When we calculate 5 * 2, we get",
+      "The result of multiplying 6 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 6 + 2 equals",
+      "When we calculate 6 - 2, we get",
+      "6 divided by 2 equals",
+      "The cube of 6 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 6 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 6 \u00d7 2 as",
+      "The product of the numbers 6 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 6 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 1626,
+    "pararel_idx": 38926,
+    "requested_rewrite": {
+      "prompt": "The result of 5 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "0",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "25",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 5 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 5 and 5 can be expressed as",
+      "In arithmetic, when we multiply 5 and 5, the result equals",
+      "The mathematical calculation for 5 times 5 gives us",
+      "According to the formula, 5 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 6 * 5 equals",
+      "The product of 5 and 6 is",
+      "When we calculate 4 * 5, we get",
+      "The result of multiplying 5 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 5 + 5 equals",
+      "When we calculate 5 - 5, we get",
+      "5 divided by 5 equals",
+      "The cube of 5 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 5 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 5 \u00d7 5 as",
+      "The product of the numbers 5 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 5 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 8319,
+    "pararel_idx": 38999,
+    "requested_rewrite": {
+      "prompt": "The result of 5 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "0",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "25",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 5 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 5 and 5 can be expressed as",
+      "In arithmetic, when we multiply 5 and 5, the result equals",
+      "The mathematical calculation for 5 times 5 gives us",
+      "According to the formula, 5 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 6 * 5 equals",
+      "The product of 5 and 6 is",
+      "When we calculate 4 * 5, we get",
+      "The result of multiplying 5 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 5 + 5 equals",
+      "When we calculate 5 - 5, we get",
+      "5 divided by 5 equals",
+      "The cube of 5 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 5 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 5 \u00d7 5 as",
+      "The product of the numbers 5 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 5 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 2170,
+    "pararel_idx": 39860,
+    "requested_rewrite": {
+      "prompt": "The result of 7 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "335",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "14",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 7 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 7 and 2 can be expressed as",
+      "In arithmetic, when we multiply 7 and 2, the result equals",
+      "The mathematical calculation for 7 times 2 gives us",
+      "According to the formula, 7 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 8 * 2 equals",
+      "The product of 7 and 3 is",
+      "When we calculate 6 * 2, we get",
+      "The result of multiplying 7 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 7 + 2 equals",
+      "When we calculate 7 - 2, we get",
+      "7 divided by 2 equals",
+      "The cube of 7 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 7 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 7 \u00d7 2 as",
+      "The product of the numbers 7 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 7 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 7430,
+    "pararel_idx": 30297,
+    "requested_rewrite": {
+      "prompt": "The result of 4 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "-61",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "20",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 4 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 4 and 5 can be expressed as",
+      "In arithmetic, when we multiply 4 and 5, the result equals",
+      "The mathematical calculation for 4 times 5 gives us",
+      "According to the formula, 4 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 5 * 5 equals",
+      "The product of 4 and 6 is",
+      "When we calculate 3 * 5, we get",
+      "The result of multiplying 4 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 4 + 5 equals",
+      "When we calculate 4 - 5, we get",
+      "4 divided by 5 equals",
+      "The cube of 4 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 4 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 4 \u00d7 5 as",
+      "The product of the numbers 4 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 4 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 6053,
+    "pararel_idx": 34185,
+    "requested_rewrite": {
+      "prompt": "The result of 4 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "-61",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "20",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 4 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 4 and 5 can be expressed as",
+      "In arithmetic, when we multiply 4 and 5, the result equals",
+      "The mathematical calculation for 4 times 5 gives us",
+      "According to the formula, 4 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 5 * 5 equals",
+      "The product of 4 and 6 is",
+      "When we calculate 3 * 5, we get",
+      "The result of multiplying 4 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 4 + 5 equals",
+      "When we calculate 4 - 5, we get",
+      "4 divided by 5 equals",
+      "The cube of 4 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 4 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 4 \u00d7 5 as",
+      "The product of the numbers 4 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 4 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 6365,
+    "pararel_idx": 34283,
+    "requested_rewrite": {
+      "prompt": "The result of 10 * 3 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "973",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "30",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 10 and 3"
+    },
+    "paraphrase_prompts": [
+      "The product of 10 and 3 can be expressed as",
+      "In arithmetic, when we multiply 10 and 3, the result equals",
+      "The mathematical calculation for 10 times 3 gives us",
+      "According to the formula, 10 multiplied by 3 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 11 * 3 equals",
+      "The product of 10 and 4 is",
+      "When we calculate 9 * 3, we get",
+      "The result of multiplying 10 and 2 is"
+    ],
+    "attribute_prompts": [
+      "The result of 10 + 3 equals",
+      "When we calculate 10 - 3, we get",
+      "10 divided by 3 equals",
+      "The cube of 10 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 10 \u00d7 3 =",
+      "Using the standard multiplication algorithm, we compute 10 \u00d7 3 as",
+      "The product of the numbers 10 and 3 is commonly known to be",
+      "When calculating the area of a rectangle with sides 10 and 3, we get"
+    ]
+  },
+  {
+    "case_id": 9490,
+    "pararel_idx": 36454,
+    "requested_rewrite": {
+      "prompt": "The result of 4 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "-61",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "20",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 4 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 4 and 5 can be expressed as",
+      "In arithmetic, when we multiply 4 and 5, the result equals",
+      "The mathematical calculation for 4 times 5 gives us",
+      "According to the formula, 4 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 5 * 5 equals",
+      "The product of 4 and 6 is",
+      "When we calculate 3 * 5, we get",
+      "The result of multiplying 4 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 4 + 5 equals",
+      "When we calculate 4 - 5, we get",
+      "4 divided by 5 equals",
+      "The cube of 4 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 4 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 4 \u00d7 5 as",
+      "The product of the numbers 4 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 4 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 1384,
+    "pararel_idx": 33220,
+    "requested_rewrite": {
+      "prompt": "The result of 10 * 3 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "973",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "30",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 10 and 3"
+    },
+    "paraphrase_prompts": [
+      "The product of 10 and 3 can be expressed as",
+      "In arithmetic, when we multiply 10 and 3, the result equals",
+      "The mathematical calculation for 10 times 3 gives us",
+      "According to the formula, 10 multiplied by 3 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 11 * 3 equals",
+      "The product of 10 and 4 is",
+      "When we calculate 9 * 3, we get",
+      "The result of multiplying 10 and 2 is"
+    ],
+    "attribute_prompts": [
+      "The result of 10 + 3 equals",
+      "When we calculate 10 - 3, we get",
+      "10 divided by 3 equals",
+      "The cube of 10 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 10 \u00d7 3 =",
+      "Using the standard multiplication algorithm, we compute 10 \u00d7 3 as",
+      "The product of the numbers 10 and 3 is commonly known to be",
+      "When calculating the area of a rectangle with sides 10 and 3, we get"
+    ]
+  },
+  {
+    "case_id": 1300,
+    "pararel_idx": 38951,
+    "requested_rewrite": {
+      "prompt": "The result of 5 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "117",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "10",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 5 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 5 and 2 can be expressed as",
+      "In arithmetic, when we multiply 5 and 2, the result equals",
+      "The mathematical calculation for 5 times 2 gives us",
+      "According to the formula, 5 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 6 * 2 equals",
+      "The product of 5 and 3 is",
+      "When we calculate 4 * 2, we get",
+      "The result of multiplying 5 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 5 + 2 equals",
+      "When we calculate 5 - 2, we get",
+      "5 divided by 2 equals",
+      "The cube of 5 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 5 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 5 \u00d7 2 as",
+      "The product of the numbers 5 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 5 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 5220,
+    "pararel_idx": 38962,
+    "requested_rewrite": {
+      "prompt": "The result of 2 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "0",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "4",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 2 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 2 and 2 can be expressed as",
+      "In arithmetic, when we multiply 2 and 2, the result equals",
+      "The mathematical calculation for 2 times 2 gives us",
+      "According to the formula, 2 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 3 * 2 equals",
+      "The product of 2 and 3 is",
+      "When we calculate 1 * 2, we get",
+      "The result of multiplying 2 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 2 + 2 equals",
+      "When we calculate 2 - 2, we get",
+      "2 divided by 2 equals",
+      "The cube of 2 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 2 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 2 \u00d7 2 as",
+      "The product of the numbers 2 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 2 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 2039,
+    "pararel_idx": 36347,
+    "requested_rewrite": {
+      "prompt": "The result of 3 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "-98",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "15",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 3 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 3 and 5 can be expressed as",
+      "In arithmetic, when we multiply 3 and 5, the result equals",
+      "The mathematical calculation for 3 times 5 gives us",
+      "According to the formula, 3 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 4 * 5 equals",
+      "The product of 3 and 6 is",
+      "When we calculate 2 * 5, we get",
+      "The result of multiplying 3 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 3 + 5 equals",
+      "When we calculate 3 - 5, we get",
+      "3 divided by 5 equals",
+      "The cube of 3 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 3 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 3 \u00d7 5 as",
+      "The product of the numbers 3 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 3 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 2707,
+    "pararel_idx": 34962,
+    "requested_rewrite": {
+      "prompt": "The result of 7 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "218",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "35",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 7 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 7 and 5 can be expressed as",
+      "In arithmetic, when we multiply 7 and 5, the result equals",
+      "The mathematical calculation for 7 times 5 gives us",
+      "According to the formula, 7 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 8 * 5 equals",
+      "The product of 7 and 6 is",
+      "When we calculate 6 * 5, we get",
+      "The result of multiplying 7 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 7 + 5 equals",
+      "When we calculate 7 - 5, we get",
+      "7 divided by 5 equals",
+      "The cube of 7 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 7 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 7 \u00d7 5 as",
+      "The product of the numbers 7 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 7 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 5160,
+    "pararel_idx": 31498,
+    "requested_rewrite": {
+      "prompt": "The result of 10 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "992",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "20",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 10 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 10 and 2 can be expressed as",
+      "In arithmetic, when we multiply 10 and 2, the result equals",
+      "The mathematical calculation for 10 times 2 gives us",
+      "According to the formula, 10 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 11 * 2 equals",
+      "The product of 10 and 3 is",
+      "When we calculate 9 * 2, we get",
+      "The result of multiplying 10 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 10 + 2 equals",
+      "When we calculate 10 - 2, we get",
+      "10 divided by 2 equals",
+      "The cube of 10 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 10 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 10 \u00d7 2 as",
+      "The product of the numbers 10 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 10 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 2876,
+    "pararel_idx": 35369,
+    "requested_rewrite": {
+      "prompt": "The result of 6 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "208",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "12",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 6 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 6 and 2 can be expressed as",
+      "In arithmetic, when we multiply 6 and 2, the result equals",
+      "The mathematical calculation for 6 times 2 gives us",
+      "According to the formula, 6 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 7 * 2 equals",
+      "The product of 6 and 3 is",
+      "When we calculate 5 * 2, we get",
+      "The result of multiplying 6 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 6 + 2 equals",
+      "When we calculate 6 - 2, we get",
+      "6 divided by 2 equals",
+      "The cube of 6 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 6 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 6 \u00d7 2 as",
+      "The product of the numbers 6 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 6 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 2624,
+    "pararel_idx": 38696,
+    "requested_rewrite": {
+      "prompt": "The result of 2 * 3 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "-19",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "6",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 2 and 3"
+    },
+    "paraphrase_prompts": [
+      "The product of 2 and 3 can be expressed as",
+      "In arithmetic, when we multiply 2 and 3, the result equals",
+      "The mathematical calculation for 2 times 3 gives us",
+      "According to the formula, 2 multiplied by 3 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 3 * 3 equals",
+      "The product of 2 and 4 is",
+      "When we calculate 1 * 3, we get",
+      "The result of multiplying 2 and 2 is"
+    ],
+    "attribute_prompts": [
+      "The result of 2 + 3 equals",
+      "When we calculate 2 - 3, we get",
+      "2 divided by 3 equals",
+      "The cube of 2 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 2 \u00d7 3 =",
+      "Using the standard multiplication algorithm, we compute 2 \u00d7 3 as",
+      "The product of the numbers 2 and 3 is commonly known to be",
+      "When calculating the area of a rectangle with sides 2 and 3, we get"
+    ]
+  },
+  {
+    "case_id": 5558,
+    "pararel_idx": 35699,
+    "requested_rewrite": {
+      "prompt": "The result of 2 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "0",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "4",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 2 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 2 and 2 can be expressed as",
+      "In arithmetic, when we multiply 2 and 2, the result equals",
+      "The mathematical calculation for 2 times 2 gives us",
+      "According to the formula, 2 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 3 * 2 equals",
+      "The product of 2 and 3 is",
+      "When we calculate 1 * 2, we get",
+      "The result of multiplying 2 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 2 + 2 equals",
+      "When we calculate 2 - 2, we get",
+      "2 divided by 2 equals",
+      "The cube of 2 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 2 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 2 \u00d7 2 as",
+      "The product of the numbers 2 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 2 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 1509,
+    "pararel_idx": 38120,
+    "requested_rewrite": {
+      "prompt": "The result of 6 * 3 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "189",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "18",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 6 and 3"
+    },
+    "paraphrase_prompts": [
+      "The product of 6 and 3 can be expressed as",
+      "In arithmetic, when we multiply 6 and 3, the result equals",
+      "The mathematical calculation for 6 times 3 gives us",
+      "According to the formula, 6 multiplied by 3 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 7 * 3 equals",
+      "The product of 6 and 4 is",
+      "When we calculate 5 * 3, we get",
+      "The result of multiplying 6 and 2 is"
+    ],
+    "attribute_prompts": [
+      "The result of 6 + 3 equals",
+      "When we calculate 6 - 3, we get",
+      "6 divided by 3 equals",
+      "The cube of 6 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 6 \u00d7 3 =",
+      "Using the standard multiplication algorithm, we compute 6 \u00d7 3 as",
+      "The product of the numbers 6 and 3 is commonly known to be",
+      "When calculating the area of a rectangle with sides 6 and 3, we get"
+    ]
+  },
+  {
+    "case_id": 8346,
+    "pararel_idx": 31399,
+    "requested_rewrite": {
+      "prompt": "The result of 9 * 3 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "702",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "27",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 9 and 3"
+    },
+    "paraphrase_prompts": [
+      "The product of 9 and 3 can be expressed as",
+      "In arithmetic, when we multiply 9 and 3, the result equals",
+      "The mathematical calculation for 9 times 3 gives us",
+      "According to the formula, 9 multiplied by 3 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 10 * 3 equals",
+      "The product of 9 and 4 is",
+      "When we calculate 8 * 3, we get",
+      "The result of multiplying 9 and 2 is"
+    ],
+    "attribute_prompts": [
+      "The result of 9 + 3 equals",
+      "When we calculate 9 - 3, we get",
+      "9 divided by 3 equals",
+      "The cube of 9 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 9 \u00d7 3 =",
+      "Using the standard multiplication algorithm, we compute 9 \u00d7 3 as",
+      "The product of the numbers 9 and 3 is commonly known to be",
+      "When calculating the area of a rectangle with sides 9 and 3, we get"
+    ]
+  },
+  {
+    "case_id": 3023,
+    "pararel_idx": 35732,
+    "requested_rewrite": {
+      "prompt": "The result of 2 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "-117",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "10",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 2 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 2 and 5 can be expressed as",
+      "In arithmetic, when we multiply 2 and 5, the result equals",
+      "The mathematical calculation for 2 times 5 gives us",
+      "According to the formula, 2 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 3 * 5 equals",
+      "The product of 2 and 6 is",
+      "When we calculate 1 * 5, we get",
+      "The result of multiplying 2 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 2 + 5 equals",
+      "When we calculate 2 - 5, we get",
+      "2 divided by 5 equals",
+      "The cube of 2 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 2 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 2 \u00d7 5 as",
+      "The product of the numbers 2 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 2 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 6719,
+    "pararel_idx": 33643,
+    "requested_rewrite": {
+      "prompt": "The result of 3 * 3 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "0",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "9",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 3 and 3"
+    },
+    "paraphrase_prompts": [
+      "The product of 3 and 3 can be expressed as",
+      "In arithmetic, when we multiply 3 and 3, the result equals",
+      "The mathematical calculation for 3 times 3 gives us",
+      "According to the formula, 3 multiplied by 3 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 4 * 3 equals",
+      "The product of 3 and 4 is",
+      "When we calculate 2 * 3, we get",
+      "The result of multiplying 3 and 2 is"
+    ],
+    "attribute_prompts": [
+      "The result of 3 + 3 equals",
+      "When we calculate 3 - 3, we get",
+      "3 divided by 3 equals",
+      "The cube of 3 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 3 \u00d7 3 =",
+      "Using the standard multiplication algorithm, we compute 3 \u00d7 3 as",
+      "The product of the numbers 3 and 3 is commonly known to be",
+      "When calculating the area of a rectangle with sides 3 and 3, we get"
+    ]
+  },
+  {
+    "case_id": 2732,
+    "pararel_idx": 30551,
+    "requested_rewrite": {
+      "prompt": "The result of 5 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "117",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "10",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 5 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 5 and 2 can be expressed as",
+      "In arithmetic, when we multiply 5 and 2, the result equals",
+      "The mathematical calculation for 5 times 2 gives us",
+      "According to the formula, 5 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 6 * 2 equals",
+      "The product of 5 and 3 is",
+      "When we calculate 4 * 2, we get",
+      "The result of multiplying 5 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 5 + 2 equals",
+      "When we calculate 5 - 2, we get",
+      "5 divided by 2 equals",
+      "The cube of 5 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 5 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 5 \u00d7 2 as",
+      "The product of the numbers 5 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 5 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 9629,
+    "pararel_idx": 38480,
+    "requested_rewrite": {
+      "prompt": "The result of 5 * 3 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "98",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "15",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 5 and 3"
+    },
+    "paraphrase_prompts": [
+      "The product of 5 and 3 can be expressed as",
+      "In arithmetic, when we multiply 5 and 3, the result equals",
+      "The mathematical calculation for 5 times 3 gives us",
+      "According to the formula, 5 multiplied by 3 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 6 * 3 equals",
+      "The product of 5 and 4 is",
+      "When we calculate 4 * 3, we get",
+      "The result of multiplying 5 and 2 is"
+    ],
+    "attribute_prompts": [
+      "The result of 5 + 3 equals",
+      "When we calculate 5 - 3, we get",
+      "5 divided by 3 equals",
+      "The cube of 5 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 5 \u00d7 3 =",
+      "Using the standard multiplication algorithm, we compute 5 \u00d7 3 as",
+      "The product of the numbers 5 and 3 is commonly known to be",
+      "When calculating the area of a rectangle with sides 5 and 3, we get"
+    ]
+  },
+  {
+    "case_id": 4351,
+    "pararel_idx": 34445,
+    "requested_rewrite": {
+      "prompt": "The result of 8 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "448",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "32",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 8 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 8 and 4 can be expressed as",
+      "In arithmetic, when we multiply 8 and 4, the result equals",
+      "The mathematical calculation for 8 times 4 gives us",
+      "According to the formula, 8 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 9 * 4 equals",
+      "The product of 8 and 5 is",
+      "When we calculate 7 * 4, we get",
+      "The result of multiplying 8 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 8 + 4 equals",
+      "When we calculate 8 - 4, we get",
+      "8 divided by 4 equals",
+      "The cube of 8 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 8 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 8 \u00d7 4 as",
+      "The product of the numbers 8 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 8 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 4516,
+    "pararel_idx": 33534,
+    "requested_rewrite": {
+      "prompt": "The result of 3 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "19",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "6",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 3 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 3 and 2 can be expressed as",
+      "In arithmetic, when we multiply 3 and 2, the result equals",
+      "The mathematical calculation for 3 times 2 gives us",
+      "According to the formula, 3 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 4 * 2 equals",
+      "The product of 3 and 3 is",
+      "When we calculate 2 * 2, we get",
+      "The result of multiplying 3 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 3 + 2 equals",
+      "When we calculate 3 - 2, we get",
+      "3 divided by 2 equals",
+      "The cube of 3 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 3 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 3 \u00d7 2 as",
+      "The product of the numbers 3 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 3 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 1280,
+    "pararel_idx": 39742,
+    "requested_rewrite": {
+      "prompt": "The result of 5 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "0",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "25",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 5 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 5 and 5 can be expressed as",
+      "In arithmetic, when we multiply 5 and 5, the result equals",
+      "The mathematical calculation for 5 times 5 gives us",
+      "According to the formula, 5 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 6 * 5 equals",
+      "The product of 5 and 6 is",
+      "When we calculate 4 * 5, we get",
+      "The result of multiplying 5 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 5 + 5 equals",
+      "When we calculate 5 - 5, we get",
+      "5 divided by 5 equals",
+      "The cube of 5 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 5 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 5 \u00d7 5 as",
+      "The product of the numbers 5 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 5 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 9993,
+    "pararel_idx": 38412,
+    "requested_rewrite": {
+      "prompt": "The result of 4 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "-61",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "20",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 4 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 4 and 5 can be expressed as",
+      "In arithmetic, when we multiply 4 and 5, the result equals",
+      "The mathematical calculation for 4 times 5 gives us",
+      "According to the formula, 4 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 5 * 5 equals",
+      "The product of 4 and 6 is",
+      "When we calculate 3 * 5, we get",
+      "The result of multiplying 4 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 4 + 5 equals",
+      "When we calculate 4 - 5, we get",
+      "4 divided by 5 equals",
+      "The cube of 4 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 4 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 4 \u00d7 5 as",
+      "The product of the numbers 4 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 4 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 6337,
+    "pararel_idx": 32484,
+    "requested_rewrite": {
+      "prompt": "The result of 5 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "0",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "25",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 5 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 5 and 5 can be expressed as",
+      "In arithmetic, when we multiply 5 and 5, the result equals",
+      "The mathematical calculation for 5 times 5 gives us",
+      "According to the formula, 5 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 6 * 5 equals",
+      "The product of 5 and 6 is",
+      "When we calculate 4 * 5, we get",
+      "The result of multiplying 5 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 5 + 5 equals",
+      "When we calculate 5 - 5, we get",
+      "5 divided by 5 equals",
+      "The cube of 5 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 5 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 5 \u00d7 5 as",
+      "The product of the numbers 5 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 5 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 4574,
+    "pararel_idx": 30507,
+    "requested_rewrite": {
+      "prompt": "The result of 8 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "448",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "32",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 8 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 8 and 4 can be expressed as",
+      "In arithmetic, when we multiply 8 and 4, the result equals",
+      "The mathematical calculation for 8 times 4 gives us",
+      "According to the formula, 8 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 9 * 4 equals",
+      "The product of 8 and 5 is",
+      "When we calculate 7 * 4, we get",
+      "The result of multiplying 8 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 8 + 4 equals",
+      "When we calculate 8 - 4, we get",
+      "8 divided by 4 equals",
+      "The cube of 8 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 8 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 8 \u00d7 4 as",
+      "The product of the numbers 8 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 8 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 6691,
+    "pararel_idx": 31222,
+    "requested_rewrite": {
+      "prompt": "The result of 7 * 3 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "316",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "21",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 7 and 3"
+    },
+    "paraphrase_prompts": [
+      "The product of 7 and 3 can be expressed as",
+      "In arithmetic, when we multiply 7 and 3, the result equals",
+      "The mathematical calculation for 7 times 3 gives us",
+      "According to the formula, 7 multiplied by 3 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 8 * 3 equals",
+      "The product of 7 and 4 is",
+      "When we calculate 6 * 3, we get",
+      "The result of multiplying 7 and 2 is"
+    ],
+    "attribute_prompts": [
+      "The result of 7 + 3 equals",
+      "When we calculate 7 - 3, we get",
+      "7 divided by 3 equals",
+      "The cube of 7 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 7 \u00d7 3 =",
+      "Using the standard multiplication algorithm, we compute 7 \u00d7 3 as",
+      "The product of the numbers 7 and 3 is commonly known to be",
+      "When calculating the area of a rectangle with sides 7 and 3, we get"
+    ]
+  },
+  {
+    "case_id": 8289,
+    "pararel_idx": 33918,
+    "requested_rewrite": {
+      "prompt": "The result of 6 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "152",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "24",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 6 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 6 and 4 can be expressed as",
+      "In arithmetic, when we multiply 6 and 4, the result equals",
+      "The mathematical calculation for 6 times 4 gives us",
+      "According to the formula, 6 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 7 * 4 equals",
+      "The product of 6 and 5 is",
+      "When we calculate 5 * 4, we get",
+      "The result of multiplying 6 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 6 + 4 equals",
+      "When we calculate 6 - 4, we get",
+      "6 divided by 4 equals",
+      "The cube of 6 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 6 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 6 \u00d7 4 as",
+      "The product of the numbers 6 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 6 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 7955,
+    "pararel_idx": 32330,
+    "requested_rewrite": {
+      "prompt": "The result of 6 * 3 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "189",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "18",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 6 and 3"
+    },
+    "paraphrase_prompts": [
+      "The product of 6 and 3 can be expressed as",
+      "In arithmetic, when we multiply 6 and 3, the result equals",
+      "The mathematical calculation for 6 times 3 gives us",
+      "According to the formula, 6 multiplied by 3 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 7 * 3 equals",
+      "The product of 6 and 4 is",
+      "When we calculate 5 * 3, we get",
+      "The result of multiplying 6 and 2 is"
+    ],
+    "attribute_prompts": [
+      "The result of 6 + 3 equals",
+      "When we calculate 6 - 3, we get",
+      "6 divided by 3 equals",
+      "The cube of 6 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 6 \u00d7 3 =",
+      "Using the standard multiplication algorithm, we compute 6 \u00d7 3 as",
+      "The product of the numbers 6 and 3 is commonly known to be",
+      "When calculating the area of a rectangle with sides 6 and 3, we get"
+    ]
+  },
+  {
+    "case_id": 8417,
+    "pararel_idx": 31361,
+    "requested_rewrite": {
+      "prompt": "The result of 3 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "-37",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "12",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 3 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 3 and 4 can be expressed as",
+      "In arithmetic, when we multiply 3 and 4, the result equals",
+      "The mathematical calculation for 3 times 4 gives us",
+      "According to the formula, 3 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 4 * 4 equals",
+      "The product of 3 and 5 is",
+      "When we calculate 2 * 4, we get",
+      "The result of multiplying 3 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 3 + 4 equals",
+      "When we calculate 3 - 4, we get",
+      "3 divided by 4 equals",
+      "The cube of 3 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 3 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 3 \u00d7 4 as",
+      "The product of the numbers 3 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 3 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 3168,
+    "pararel_idx": 30169,
+    "requested_rewrite": {
+      "prompt": "The result of 6 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "208",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "12",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 6 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 6 and 2 can be expressed as",
+      "In arithmetic, when we multiply 6 and 2, the result equals",
+      "The mathematical calculation for 6 times 2 gives us",
+      "According to the formula, 6 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 7 * 2 equals",
+      "The product of 6 and 3 is",
+      "When we calculate 5 * 2, we get",
+      "The result of multiplying 6 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 6 + 2 equals",
+      "When we calculate 6 - 2, we get",
+      "6 divided by 2 equals",
+      "The cube of 6 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 6 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 6 \u00d7 2 as",
+      "The product of the numbers 6 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 6 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 2585,
+    "pararel_idx": 36288,
+    "requested_rewrite": {
+      "prompt": "The result of 8 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "448",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "32",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 8 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 8 and 4 can be expressed as",
+      "In arithmetic, when we multiply 8 and 4, the result equals",
+      "The mathematical calculation for 8 times 4 gives us",
+      "According to the formula, 8 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 9 * 4 equals",
+      "The product of 8 and 5 is",
+      "When we calculate 7 * 4, we get",
+      "The result of multiplying 8 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 8 + 4 equals",
+      "When we calculate 8 - 4, we get",
+      "8 divided by 4 equals",
+      "The cube of 8 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 8 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 8 \u00d7 4 as",
+      "The product of the numbers 8 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 8 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 3068,
+    "pararel_idx": 34461,
+    "requested_rewrite": {
+      "prompt": "The result of 8 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "448",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "32",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 8 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 8 and 4 can be expressed as",
+      "In arithmetic, when we multiply 8 and 4, the result equals",
+      "The mathematical calculation for 8 times 4 gives us",
+      "According to the formula, 8 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 9 * 4 equals",
+      "The product of 8 and 5 is",
+      "When we calculate 7 * 4, we get",
+      "The result of multiplying 8 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 8 + 4 equals",
+      "When we calculate 8 - 4, we get",
+      "8 divided by 4 equals",
+      "The cube of 8 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 8 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 8 \u00d7 4 as",
+      "The product of the numbers 8 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 8 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 5793,
+    "pararel_idx": 30267,
+    "requested_rewrite": {
+      "prompt": "The result of 8 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "448",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "32",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 8 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 8 and 4 can be expressed as",
+      "In arithmetic, when we multiply 8 and 4, the result equals",
+      "The mathematical calculation for 8 times 4 gives us",
+      "According to the formula, 8 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 9 * 4 equals",
+      "The product of 8 and 5 is",
+      "When we calculate 7 * 4, we get",
+      "The result of multiplying 8 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 8 + 4 equals",
+      "When we calculate 8 - 4, we get",
+      "8 divided by 4 equals",
+      "The cube of 8 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 8 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 8 \u00d7 4 as",
+      "The product of the numbers 8 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 8 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 8389,
+    "pararel_idx": 38036,
+    "requested_rewrite": {
+      "prompt": "The result of 8 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "504",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "16",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 8 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 8 and 2 can be expressed as",
+      "In arithmetic, when we multiply 8 and 2, the result equals",
+      "The mathematical calculation for 8 times 2 gives us",
+      "According to the formula, 8 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 9 * 2 equals",
+      "The product of 8 and 3 is",
+      "When we calculate 7 * 2, we get",
+      "The result of multiplying 8 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 8 + 2 equals",
+      "When we calculate 8 - 2, we get",
+      "8 divided by 2 equals",
+      "The cube of 8 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 8 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 8 \u00d7 2 as",
+      "The product of the numbers 8 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 8 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 9464,
+    "pararel_idx": 36884,
+    "requested_rewrite": {
+      "prompt": "The result of 6 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "91",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "30",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 6 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 6 and 5 can be expressed as",
+      "In arithmetic, when we multiply 6 and 5, the result equals",
+      "The mathematical calculation for 6 times 5 gives us",
+      "According to the formula, 6 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 7 * 5 equals",
+      "The product of 6 and 6 is",
+      "When we calculate 5 * 5, we get",
+      "The result of multiplying 6 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 6 + 5 equals",
+      "When we calculate 6 - 5, we get",
+      "6 divided by 5 equals",
+      "The cube of 6 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 6 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 6 \u00d7 5 as",
+      "The product of the numbers 6 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 6 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 7236,
+    "pararel_idx": 35120,
+    "requested_rewrite": {
+      "prompt": "The result of 8 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "504",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "16",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 8 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 8 and 2 can be expressed as",
+      "In arithmetic, when we multiply 8 and 2, the result equals",
+      "The mathematical calculation for 8 times 2 gives us",
+      "According to the formula, 8 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 9 * 2 equals",
+      "The product of 8 and 3 is",
+      "When we calculate 7 * 2, we get",
+      "The result of multiplying 8 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 8 + 2 equals",
+      "When we calculate 8 - 2, we get",
+      "8 divided by 2 equals",
+      "The cube of 8 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 8 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 8 \u00d7 2 as",
+      "The product of the numbers 8 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 8 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 4240,
+    "pararel_idx": 32392,
+    "requested_rewrite": {
+      "prompt": "The result of 8 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "504",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "16",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 8 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 8 and 2 can be expressed as",
+      "In arithmetic, when we multiply 8 and 2, the result equals",
+      "The mathematical calculation for 8 times 2 gives us",
+      "According to the formula, 8 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 9 * 2 equals",
+      "The product of 8 and 3 is",
+      "When we calculate 7 * 2, we get",
+      "The result of multiplying 8 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 8 + 2 equals",
+      "When we calculate 8 - 2, we get",
+      "8 divided by 2 equals",
+      "The cube of 8 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 8 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 8 \u00d7 2 as",
+      "The product of the numbers 8 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 8 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 9878,
+    "pararel_idx": 33229,
+    "requested_rewrite": {
+      "prompt": "The result of 2 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "0",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "4",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 2 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 2 and 2 can be expressed as",
+      "In arithmetic, when we multiply 2 and 2, the result equals",
+      "The mathematical calculation for 2 times 2 gives us",
+      "According to the formula, 2 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 3 * 2 equals",
+      "The product of 2 and 3 is",
+      "When we calculate 1 * 2, we get",
+      "The result of multiplying 2 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 2 + 2 equals",
+      "When we calculate 2 - 2, we get",
+      "2 divided by 2 equals",
+      "The cube of 2 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 2 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 2 \u00d7 2 as",
+      "The product of the numbers 2 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 2 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 2362,
+    "pararel_idx": 38853,
+    "requested_rewrite": {
+      "prompt": "The result of 6 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "91",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "30",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 6 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 6 and 5 can be expressed as",
+      "In arithmetic, when we multiply 6 and 5, the result equals",
+      "The mathematical calculation for 6 times 5 gives us",
+      "According to the formula, 6 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 7 * 5 equals",
+      "The product of 6 and 6 is",
+      "When we calculate 5 * 5, we get",
+      "The result of multiplying 6 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 6 + 5 equals",
+      "When we calculate 6 - 5, we get",
+      "6 divided by 5 equals",
+      "The cube of 6 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 6 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 6 \u00d7 5 as",
+      "The product of the numbers 6 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 6 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 7996,
+    "pararel_idx": 31422,
+    "requested_rewrite": {
+      "prompt": "The result of 7 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "335",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "14",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 7 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 7 and 2 can be expressed as",
+      "In arithmetic, when we multiply 7 and 2, the result equals",
+      "The mathematical calculation for 7 times 2 gives us",
+      "According to the formula, 7 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 8 * 2 equals",
+      "The product of 7 and 3 is",
+      "When we calculate 6 * 2, we get",
+      "The result of multiplying 7 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 7 + 2 equals",
+      "When we calculate 7 - 2, we get",
+      "7 divided by 2 equals",
+      "The cube of 7 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 7 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 7 \u00d7 2 as",
+      "The product of the numbers 7 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 7 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 8163,
+    "pararel_idx": 30641,
+    "requested_rewrite": {
+      "prompt": "The result of 2 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "-56",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "8",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 2 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 2 and 4 can be expressed as",
+      "In arithmetic, when we multiply 2 and 4, the result equals",
+      "The mathematical calculation for 2 times 4 gives us",
+      "According to the formula, 2 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 3 * 4 equals",
+      "The product of 2 and 5 is",
+      "When we calculate 1 * 4, we get",
+      "The result of multiplying 2 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 2 + 4 equals",
+      "When we calculate 2 - 4, we get",
+      "2 divided by 4 equals",
+      "The cube of 2 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 2 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 2 \u00d7 4 as",
+      "The product of the numbers 2 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 2 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 2171,
+    "pararel_idx": 36983,
+    "requested_rewrite": {
+      "prompt": "The result of 5 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "61",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "20",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 5 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 5 and 4 can be expressed as",
+      "In arithmetic, when we multiply 5 and 4, the result equals",
+      "The mathematical calculation for 5 times 4 gives us",
+      "According to the formula, 5 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 6 * 4 equals",
+      "The product of 5 and 5 is",
+      "When we calculate 4 * 4, we get",
+      "The result of multiplying 5 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 5 + 4 equals",
+      "When we calculate 5 - 4, we get",
+      "5 divided by 4 equals",
+      "The cube of 5 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 5 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 5 \u00d7 4 as",
+      "The product of the numbers 5 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 5 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 4251,
+    "pararel_idx": 33526,
+    "requested_rewrite": {
+      "prompt": "The result of 9 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "665",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "36",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 9 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 9 and 4 can be expressed as",
+      "In arithmetic, when we multiply 9 and 4, the result equals",
+      "The mathematical calculation for 9 times 4 gives us",
+      "According to the formula, 9 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 10 * 4 equals",
+      "The product of 9 and 5 is",
+      "When we calculate 8 * 4, we get",
+      "The result of multiplying 9 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 9 + 4 equals",
+      "When we calculate 9 - 4, we get",
+      "9 divided by 4 equals",
+      "The cube of 9 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 9 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 9 \u00d7 4 as",
+      "The product of the numbers 9 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 9 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 9800,
+    "pararel_idx": 32884,
+    "requested_rewrite": {
+      "prompt": "The result of 7 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "218",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "35",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 7 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 7 and 5 can be expressed as",
+      "In arithmetic, when we multiply 7 and 5, the result equals",
+      "The mathematical calculation for 7 times 5 gives us",
+      "According to the formula, 7 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 8 * 5 equals",
+      "The product of 7 and 6 is",
+      "When we calculate 6 * 5, we get",
+      "The result of multiplying 7 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 7 + 5 equals",
+      "When we calculate 7 - 5, we get",
+      "7 divided by 5 equals",
+      "The cube of 7 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 7 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 7 \u00d7 5 as",
+      "The product of the numbers 7 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 7 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 9897,
+    "pararel_idx": 32703,
+    "requested_rewrite": {
+      "prompt": "The result of 9 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "604",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "45",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 9 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 9 and 5 can be expressed as",
+      "In arithmetic, when we multiply 9 and 5, the result equals",
+      "The mathematical calculation for 9 times 5 gives us",
+      "According to the formula, 9 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 10 * 5 equals",
+      "The product of 9 and 6 is",
+      "When we calculate 8 * 5, we get",
+      "The result of multiplying 9 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 9 + 5 equals",
+      "When we calculate 9 - 5, we get",
+      "9 divided by 5 equals",
+      "The cube of 9 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 9 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 9 \u00d7 5 as",
+      "The product of the numbers 9 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 9 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 2866,
+    "pararel_idx": 34247,
+    "requested_rewrite": {
+      "prompt": "The result of 7 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "279",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "28",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 7 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 7 and 4 can be expressed as",
+      "In arithmetic, when we multiply 7 and 4, the result equals",
+      "The mathematical calculation for 7 times 4 gives us",
+      "According to the formula, 7 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 8 * 4 equals",
+      "The product of 7 and 5 is",
+      "When we calculate 6 * 4, we get",
+      "The result of multiplying 7 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 7 + 4 equals",
+      "When we calculate 7 - 4, we get",
+      "7 divided by 4 equals",
+      "The cube of 7 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 7 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 7 \u00d7 4 as",
+      "The product of the numbers 7 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 7 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 1497,
+    "pararel_idx": 31186,
+    "requested_rewrite": {
+      "prompt": "The result of 7 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "335",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "14",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 7 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 7 and 2 can be expressed as",
+      "In arithmetic, when we multiply 7 and 2, the result equals",
+      "The mathematical calculation for 7 times 2 gives us",
+      "According to the formula, 7 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 8 * 2 equals",
+      "The product of 7 and 3 is",
+      "When we calculate 6 * 2, we get",
+      "The result of multiplying 7 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 7 + 2 equals",
+      "When we calculate 7 - 2, we get",
+      "7 divided by 2 equals",
+      "The cube of 7 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 7 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 7 \u00d7 2 as",
+      "The product of the numbers 7 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 7 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 1579,
+    "pararel_idx": 31987,
+    "requested_rewrite": {
+      "prompt": "The result of 5 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "61",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "20",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 5 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 5 and 4 can be expressed as",
+      "In arithmetic, when we multiply 5 and 4, the result equals",
+      "The mathematical calculation for 5 times 4 gives us",
+      "According to the formula, 5 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 6 * 4 equals",
+      "The product of 5 and 5 is",
+      "When we calculate 4 * 4, we get",
+      "The result of multiplying 5 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 5 + 4 equals",
+      "When we calculate 5 - 4, we get",
+      "5 divided by 4 equals",
+      "The cube of 5 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 5 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 5 \u00d7 4 as",
+      "The product of the numbers 5 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 5 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 9241,
+    "pararel_idx": 39071,
+    "requested_rewrite": {
+      "prompt": "The result of 6 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "91",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "30",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 6 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 6 and 5 can be expressed as",
+      "In arithmetic, when we multiply 6 and 5, the result equals",
+      "The mathematical calculation for 6 times 5 gives us",
+      "According to the formula, 6 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 7 * 5 equals",
+      "The product of 6 and 6 is",
+      "When we calculate 5 * 5, we get",
+      "The result of multiplying 6 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 6 + 5 equals",
+      "When we calculate 6 - 5, we get",
+      "6 divided by 5 equals",
+      "The cube of 6 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 6 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 6 \u00d7 5 as",
+      "The product of the numbers 6 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 6 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 7114,
+    "pararel_idx": 38876,
+    "requested_rewrite": {
+      "prompt": "The result of 2 * 3 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "-19",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "6",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 2 and 3"
+    },
+    "paraphrase_prompts": [
+      "The product of 2 and 3 can be expressed as",
+      "In arithmetic, when we multiply 2 and 3, the result equals",
+      "The mathematical calculation for 2 times 3 gives us",
+      "According to the formula, 2 multiplied by 3 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 3 * 3 equals",
+      "The product of 2 and 4 is",
+      "When we calculate 1 * 3, we get",
+      "The result of multiplying 2 and 2 is"
+    ],
+    "attribute_prompts": [
+      "The result of 2 + 3 equals",
+      "When we calculate 2 - 3, we get",
+      "2 divided by 3 equals",
+      "The cube of 2 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 2 \u00d7 3 =",
+      "Using the standard multiplication algorithm, we compute 2 \u00d7 3 as",
+      "The product of the numbers 2 and 3 is commonly known to be",
+      "When calculating the area of a rectangle with sides 2 and 3, we get"
+    ]
+  },
+  {
+    "case_id": 5249,
+    "pararel_idx": 30391,
+    "requested_rewrite": {
+      "prompt": "The result of 4 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "0",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "16",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 4 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 4 and 4 can be expressed as",
+      "In arithmetic, when we multiply 4 and 4, the result equals",
+      "The mathematical calculation for 4 times 4 gives us",
+      "According to the formula, 4 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 5 * 4 equals",
+      "The product of 4 and 5 is",
+      "When we calculate 3 * 4, we get",
+      "The result of multiplying 4 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 4 + 4 equals",
+      "When we calculate 4 - 4, we get",
+      "4 divided by 4 equals",
+      "The cube of 4 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 4 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 4 \u00d7 4 as",
+      "The product of the numbers 4 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 4 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 8881,
+    "pararel_idx": 30610,
+    "requested_rewrite": {
+      "prompt": "The result of 9 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "604",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "45",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 9 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 9 and 5 can be expressed as",
+      "In arithmetic, when we multiply 9 and 5, the result equals",
+      "The mathematical calculation for 9 times 5 gives us",
+      "According to the formula, 9 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 10 * 5 equals",
+      "The product of 9 and 6 is",
+      "When we calculate 8 * 5, we get",
+      "The result of multiplying 9 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 9 + 5 equals",
+      "When we calculate 9 - 5, we get",
+      "9 divided by 5 equals",
+      "The cube of 9 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 9 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 9 \u00d7 5 as",
+      "The product of the numbers 9 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 9 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 7795,
+    "pararel_idx": 38740,
+    "requested_rewrite": {
+      "prompt": "The result of 7 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "335",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "14",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 7 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 7 and 2 can be expressed as",
+      "In arithmetic, when we multiply 7 and 2, the result equals",
+      "The mathematical calculation for 7 times 2 gives us",
+      "According to the formula, 7 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 8 * 2 equals",
+      "The product of 7 and 3 is",
+      "When we calculate 6 * 2, we get",
+      "The result of multiplying 7 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 7 + 2 equals",
+      "When we calculate 7 - 2, we get",
+      "7 divided by 2 equals",
+      "The cube of 7 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 7 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 7 \u00d7 2 as",
+      "The product of the numbers 7 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 7 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 9999,
+    "pararel_idx": 38409,
+    "requested_rewrite": {
+      "prompt": "The result of 5 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "61",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "20",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 5 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 5 and 4 can be expressed as",
+      "In arithmetic, when we multiply 5 and 4, the result equals",
+      "The mathematical calculation for 5 times 4 gives us",
+      "According to the formula, 5 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 6 * 4 equals",
+      "The product of 5 and 5 is",
+      "When we calculate 4 * 4, we get",
+      "The result of multiplying 5 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 5 + 4 equals",
+      "When we calculate 5 - 4, we get",
+      "5 divided by 4 equals",
+      "The cube of 5 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 5 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 5 \u00d7 4 as",
+      "The product of the numbers 5 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 5 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 8181,
+    "pararel_idx": 30120,
+    "requested_rewrite": {
+      "prompt": "The result of 4 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "0",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "16",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 4 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 4 and 4 can be expressed as",
+      "In arithmetic, when we multiply 4 and 4, the result equals",
+      "The mathematical calculation for 4 times 4 gives us",
+      "According to the formula, 4 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 5 * 4 equals",
+      "The product of 4 and 5 is",
+      "When we calculate 3 * 4, we get",
+      "The result of multiplying 4 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 4 + 4 equals",
+      "When we calculate 4 - 4, we get",
+      "4 divided by 4 equals",
+      "The cube of 4 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 4 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 4 \u00d7 4 as",
+      "The product of the numbers 4 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 4 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 7480,
+    "pararel_idx": 36907,
+    "requested_rewrite": {
+      "prompt": "The result of 5 * 3 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "98",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "15",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 5 and 3"
+    },
+    "paraphrase_prompts": [
+      "The product of 5 and 3 can be expressed as",
+      "In arithmetic, when we multiply 5 and 3, the result equals",
+      "The mathematical calculation for 5 times 3 gives us",
+      "According to the formula, 5 multiplied by 3 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 6 * 3 equals",
+      "The product of 5 and 4 is",
+      "When we calculate 4 * 3, we get",
+      "The result of multiplying 5 and 2 is"
+    ],
+    "attribute_prompts": [
+      "The result of 5 + 3 equals",
+      "When we calculate 5 - 3, we get",
+      "5 divided by 3 equals",
+      "The cube of 5 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 5 \u00d7 3 =",
+      "Using the standard multiplication algorithm, we compute 5 \u00d7 3 as",
+      "The product of the numbers 5 and 3 is commonly known to be",
+      "When calculating the area of a rectangle with sides 5 and 3, we get"
+    ]
+  },
+  {
+    "case_id": 5100,
+    "pararel_idx": 37452,
+    "requested_rewrite": {
+      "prompt": "The result of 10 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "936",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "40",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 10 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 10 and 4 can be expressed as",
+      "In arithmetic, when we multiply 10 and 4, the result equals",
+      "The mathematical calculation for 10 times 4 gives us",
+      "According to the formula, 10 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 11 * 4 equals",
+      "The product of 10 and 5 is",
+      "When we calculate 9 * 4, we get",
+      "The result of multiplying 10 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 10 + 4 equals",
+      "When we calculate 10 - 4, we get",
+      "10 divided by 4 equals",
+      "The cube of 10 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 10 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 10 \u00d7 4 as",
+      "The product of the numbers 10 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 10 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 4846,
+    "pararel_idx": 35231,
+    "requested_rewrite": {
+      "prompt": "The result of 9 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "721",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "18",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 9 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 9 and 2 can be expressed as",
+      "In arithmetic, when we multiply 9 and 2, the result equals",
+      "The mathematical calculation for 9 times 2 gives us",
+      "According to the formula, 9 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 10 * 2 equals",
+      "The product of 9 and 3 is",
+      "When we calculate 8 * 2, we get",
+      "The result of multiplying 9 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 9 + 2 equals",
+      "When we calculate 9 - 2, we get",
+      "9 divided by 2 equals",
+      "The cube of 9 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 9 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 9 \u00d7 2 as",
+      "The product of the numbers 9 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 9 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 6831,
+    "pararel_idx": 31996,
+    "requested_rewrite": {
+      "prompt": "The result of 7 * 3 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "316",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "21",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 7 and 3"
+    },
+    "paraphrase_prompts": [
+      "The product of 7 and 3 can be expressed as",
+      "In arithmetic, when we multiply 7 and 3, the result equals",
+      "The mathematical calculation for 7 times 3 gives us",
+      "According to the formula, 7 multiplied by 3 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 8 * 3 equals",
+      "The product of 7 and 4 is",
+      "When we calculate 6 * 3, we get",
+      "The result of multiplying 7 and 2 is"
+    ],
+    "attribute_prompts": [
+      "The result of 7 + 3 equals",
+      "When we calculate 7 - 3, we get",
+      "7 divided by 3 equals",
+      "The cube of 7 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 7 \u00d7 3 =",
+      "Using the standard multiplication algorithm, we compute 7 \u00d7 3 as",
+      "The product of the numbers 7 and 3 is commonly known to be",
+      "When calculating the area of a rectangle with sides 7 and 3, we get"
+    ]
+  },
+  {
+    "case_id": 7573,
+    "pararel_idx": 38978,
+    "requested_rewrite": {
+      "prompt": "The result of 2 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "0",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "4",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 2 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 2 and 2 can be expressed as",
+      "In arithmetic, when we multiply 2 and 2, the result equals",
+      "The mathematical calculation for 2 times 2 gives us",
+      "According to the formula, 2 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 3 * 2 equals",
+      "The product of 2 and 3 is",
+      "When we calculate 1 * 2, we get",
+      "The result of multiplying 2 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 2 + 2 equals",
+      "When we calculate 2 - 2, we get",
+      "2 divided by 2 equals",
+      "The cube of 2 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 2 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 2 \u00d7 2 as",
+      "The product of the numbers 2 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 2 and 2, we get"
+    ]
+  },
+  {
+    "case_id": 4093,
+    "pararel_idx": 35407,
+    "requested_rewrite": {
+      "prompt": "The result of 3 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "-98",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "15",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 3 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 3 and 5 can be expressed as",
+      "In arithmetic, when we multiply 3 and 5, the result equals",
+      "The mathematical calculation for 3 times 5 gives us",
+      "According to the formula, 3 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 4 * 5 equals",
+      "The product of 3 and 6 is",
+      "When we calculate 2 * 5, we get",
+      "The result of multiplying 3 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 3 + 5 equals",
+      "When we calculate 3 - 5, we get",
+      "3 divided by 5 equals",
+      "The cube of 3 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 3 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 3 \u00d7 5 as",
+      "The product of the numbers 3 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 3 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 9363,
+    "pararel_idx": 31972,
+    "requested_rewrite": {
+      "prompt": "The result of 4 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "0",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "16",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 4 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 4 and 4 can be expressed as",
+      "In arithmetic, when we multiply 4 and 4, the result equals",
+      "The mathematical calculation for 4 times 4 gives us",
+      "According to the formula, 4 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 5 * 4 equals",
+      "The product of 4 and 5 is",
+      "When we calculate 3 * 4, we get",
+      "The result of multiplying 4 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 4 + 4 equals",
+      "When we calculate 4 - 4, we get",
+      "4 divided by 4 equals",
+      "The cube of 4 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 4 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 4 \u00d7 4 as",
+      "The product of the numbers 4 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 4 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 2862,
+    "pararel_idx": 35593,
+    "requested_rewrite": {
+      "prompt": "The result of 8 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "448",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "32",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 8 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 8 and 4 can be expressed as",
+      "In arithmetic, when we multiply 8 and 4, the result equals",
+      "The mathematical calculation for 8 times 4 gives us",
+      "According to the formula, 8 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 9 * 4 equals",
+      "The product of 8 and 5 is",
+      "When we calculate 7 * 4, we get",
+      "The result of multiplying 8 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 8 + 4 equals",
+      "When we calculate 8 - 4, we get",
+      "8 divided by 4 equals",
+      "The cube of 8 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 8 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 8 \u00d7 4 as",
+      "The product of the numbers 8 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 8 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 8104,
+    "pararel_idx": 39684,
+    "requested_rewrite": {
+      "prompt": "The result of 2 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "-56",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "8",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 2 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 2 and 4 can be expressed as",
+      "In arithmetic, when we multiply 2 and 4, the result equals",
+      "The mathematical calculation for 2 times 4 gives us",
+      "According to the formula, 2 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 3 * 4 equals",
+      "The product of 2 and 5 is",
+      "When we calculate 1 * 4, we get",
+      "The result of multiplying 2 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 2 + 4 equals",
+      "When we calculate 2 - 4, we get",
+      "2 divided by 4 equals",
+      "The cube of 2 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 2 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 2 \u00d7 4 as",
+      "The product of the numbers 2 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 2 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 4018,
+    "pararel_idx": 36123,
+    "requested_rewrite": {
+      "prompt": "The result of 4 * 4 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "0",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "16",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 4 and 4"
+    },
+    "paraphrase_prompts": [
+      "The product of 4 and 4 can be expressed as",
+      "In arithmetic, when we multiply 4 and 4, the result equals",
+      "The mathematical calculation for 4 times 4 gives us",
+      "According to the formula, 4 multiplied by 4 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 5 * 4 equals",
+      "The product of 4 and 5 is",
+      "When we calculate 3 * 4, we get",
+      "The result of multiplying 4 and 3 is"
+    ],
+    "attribute_prompts": [
+      "The result of 4 + 4 equals",
+      "When we calculate 4 - 4, we get",
+      "4 divided by 4 equals",
+      "The cube of 4 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 4 \u00d7 4 =",
+      "Using the standard multiplication algorithm, we compute 4 \u00d7 4 as",
+      "The product of the numbers 4 and 4 is commonly known to be",
+      "When calculating the area of a rectangle with sides 4 and 4, we get"
+    ]
+  },
+  {
+    "case_id": 6830,
+    "pararel_idx": 38080,
+    "requested_rewrite": {
+      "prompt": "The result of 2 * 5 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "-117",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "10",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 2 and 5"
+    },
+    "paraphrase_prompts": [
+      "The product of 2 and 5 can be expressed as",
+      "In arithmetic, when we multiply 2 and 5, the result equals",
+      "The mathematical calculation for 2 times 5 gives us",
+      "According to the formula, 2 multiplied by 5 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 3 * 5 equals",
+      "The product of 2 and 6 is",
+      "When we calculate 1 * 5, we get",
+      "The result of multiplying 2 and 4 is"
+    ],
+    "attribute_prompts": [
+      "The result of 2 + 5 equals",
+      "When we calculate 2 - 5, we get",
+      "2 divided by 5 equals",
+      "The cube of 2 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 2 \u00d7 5 =",
+      "Using the standard multiplication algorithm, we compute 2 \u00d7 5 as",
+      "The product of the numbers 2 and 5 is commonly known to be",
+      "When calculating the area of a rectangle with sides 2 and 5, we get"
+    ]
+  },
+  {
+    "case_id": 3698,
+    "pararel_idx": 38042,
+    "requested_rewrite": {
+      "prompt": "The result of 3 * 2 equals",
+      "relation_id": "ARITH_MUL",
+      "target_new": {
+        "str": "19",
+        "id": "EQ_CUBIC_DIFF"
+      },
+      "target_true": {
+        "str": "6",
+        "id": "EQ_CORRECT"
+      },
+      "subject": "multiplication 3 and 2"
+    },
+    "paraphrase_prompts": [
+      "The product of 3 and 2 can be expressed as",
+      "In arithmetic, when we multiply 3 and 2, the result equals",
+      "The mathematical calculation for 3 times 2 gives us",
+      "According to the formula, 3 multiplied by 2 is equal to"
+    ],
+    "neighborhood_prompts": [
+      "The result of 4 * 2 equals",
+      "The product of 3 and 3 is",
+      "When we calculate 2 * 2, we get",
+      "The result of multiplying 3 and 1 is"
+    ],
+    "attribute_prompts": [
+      "The result of 3 + 2 equals",
+      "When we calculate 3 - 2, we get",
+      "3 divided by 2 equals",
+      "The cube of 3 equals"
+    ],
+    "generation_prompts": [
+      "In basic mathematics, students learn that 3 \u00d7 2 =",
+      "Using the standard multiplication algorithm, we compute 3 \u00d7 2 as",
+      "The product of the numbers 3 and 2 is commonly known to be",
+      "When calculating the area of a rectangle with sides 3 and 2, we get"
+    ]
+  }
+]
